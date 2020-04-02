@@ -33,5 +33,6 @@ data:
       username: demo-app1-user
       groups:
         - k8s-developer
-  7. apply roles and role-binding
-  8. Test ngnix.yaml (kubectl create -f ngnix.yml -n demo-app1) 
+  
+ 7. apply roles and role-binding
+ 8. Test ngnix.yaml (kubectl create -f ngnix.yml -n demo-app1) 
